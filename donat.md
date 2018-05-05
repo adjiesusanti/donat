@@ -13,10 +13,12 @@
 ### Topping:
 - Pasir
 - Keju
+- Tanah
 
 ### Warna:
 - Merah
 - Kuning
 - Hujau
+- Biru
 
 ## Contributors
